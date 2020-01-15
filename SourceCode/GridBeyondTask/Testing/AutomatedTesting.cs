@@ -8,7 +8,7 @@ namespace GridBeyondTask.Modules
     class AutomatedTesting
     {
         //Setting hardcoded values for testing
-        private string databaseFile = @"C:\Kostal\GridBeyondTask\GridBeyondTask\Executable\Database\SampleDatabase.mdf";
+        private string databaseFile = @"C:\Kostal\GridBeyondTask\SourceCode\GridBeyondTask\Executable\Database\SampleDatabase.mdf";
         private string databaseServer = @".\SQLEXPRESS";
         private DatabaseAccess da;
 
