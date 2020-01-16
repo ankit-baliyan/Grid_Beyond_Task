@@ -1,0 +1,4 @@
+Pre-Requirement List to run software successfully:
+1) .Net 4.5 framework
+2) Visual Studio 2017/19 for Source Code
+3) SQL Express
